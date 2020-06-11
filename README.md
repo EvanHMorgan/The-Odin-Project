@@ -1,22 +1,22 @@
 # The Odin Project Repository
 
-## **Summary**
+## Summary
 
 This repository is for all of my projects as they pertain to The Odin Project.  Take a look if you wish and leave me some feedback.  
 
 Thanks!
 
-## **About Me**
+## About Me
 
 I am learning front-end web development after spending about 12 years working in creative teams for a corporate photo studio as a graphic designer, print layout artist, and eventually went into a sales management role for a long, long time.  I also have a business admin degree, but I'm looking forward to working within creative teams again as a front-end dev\designer.  These are my efforts to expand my skills beyond graphic design and pick up coding. Enjoy.
 
 
-## **Project Indexacon**
+## Projects
 
-### **Pugstrat** ###
-This project is a website built for the game Counter-Strike Global Offensive. The concept is a strat book to help random players in pickup games organize and play together strategically, and encourage teamwork.<br></br>
-<br>
-**Contact**  
+1. **Pugstrat**  
+This project is a website built for the game Counter-Strike Global Offensive. The concept is a strat book to help random players in pickup games organize and play together strategically, and encourage teamwork.
+<br></br>
+### Contact 
 Evan H. Morgan  
 EHMorgan05@gmail.com
 

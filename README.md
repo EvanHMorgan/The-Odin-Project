@@ -13,7 +13,7 @@ I am learning front-end web development after spending about 12 years working in
 
 ## Projects
 
-1. **Pugstrat**  
+1. [**Pugstrat**](https://github.com/EvanHMorgan/The-Odin-Project/tree/master/pugstrat)  
 This project is a website built for the game Counter-Strike Global Offensive. The concept is a strat book to help random players in pickup games organize and play together strategically while encouraging teamwork.
 <br></br>
 ### Contact 
